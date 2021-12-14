@@ -10,7 +10,7 @@ class UserProvider extends React.Component {
         email: "ilikefood@aol.com",
         avatar: "utensils",
         color: "red",
-        updateUser: (user) => this.updateUser(user)
+        updateUser: (user) => this.updateUser(user),
     }
 
     // adding a list to change user later on
